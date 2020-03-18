@@ -1,7 +1,7 @@
-# API GoBarber
-> API para aplicação de agendamento em barbearias e salões de beleza.
+# API Painel de Eventos
+> API para o Painel de Eventos do Coren MA.
 
-Esta API foi desenvolvida com o intuito de fornecer uma base para a aplicação em que seja possível marcar, listar e cancelar agendamentos (usuário), mostrando quais os prestadores de serviço e seus horários disponíveis. Também exibe, para o prestador de serviço, sua agenda no dia especificado.
+Esta API foi desenvolvida com o intuito de fornecer uma base para a aplicação em que seja possível realizar a inscrição em eventos do Conselho Regional de Enfermagem do Maranhão, mostrando quais os eventos disponíveis e suas datas e horários. Também realiza o envio da confirmação de inscrição para o email do inscrito.
 
 ![](../header.png)
 
@@ -24,7 +24,7 @@ As dependências já acompanham a instalação com o Yarn.
 
 ## Meta
 
-João Vitor Viegas Rêgo – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+João Vitor Viegas Rêgo
 
 [https://github.com/jvrviegas/github-link](https://github.com/jvrviegas/)
 
@@ -35,10 +35,3 @@ João Vitor Viegas Rêgo – [@SeuNome](https://twitter.com/...) – SeuEmail@ex
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
-
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/jvrviegas/api_gobarber/wiki
